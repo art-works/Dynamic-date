@@ -1,0 +1,16 @@
+{
+  "name": "dynamicDate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment-timezone": "^0.5.34",
+    "nodemon": "^2.0.15",
+    "serverless-http": "^2.7.0",
+    "xml": "^1.0.1"
+  },
+  "devDependencies": {
+    "serverless-offline": "^8.2.0"
+  }
+}
